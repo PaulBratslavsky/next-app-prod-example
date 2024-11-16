@@ -15,7 +15,9 @@
     "",
     "^[./]",
     "",
-    "^@/components/ui/(.*)$",
+    "^@/components/custom/(.*)$",
+    "",
+    "^@/components/forms/(.*)$",
     ""
   ]
 }
